@@ -1,14 +1,20 @@
-#print 1st movie 
-print("The Shining")
+def FiveFavFilms():         
 
-#print 2nd movie 
-print("The wolf of wallstreet")
+    #print the first movie 
+    print("The shining")
 
-#print 3rd movie 
-print("fantastic mr fox")
+    #print second movie 
+    print("The wolf of wall street")
 
-#print 4th movie 
-print("Avengers Infinity war")
+    #print thrid movie
+    print("Fantastic mr fox")
 
-#print 5th movie
-print("FoxCatcher")
+    #print fourth movie
+    print("Oceans eight")
+
+    #print fifth movie
+    print("Avengers infinity war")
+
+print("These are my top five movies")
+FiveFavFilms()
+
